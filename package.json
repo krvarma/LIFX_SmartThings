@@ -1,0 +1,21 @@
+{
+  "name": "lifx-smartthings",
+  "version": "0.0.1",
+  "description": "Sample script to control LIFX bulb",
+  "main": "lifx.js",
+  "dependencies": {
+    "mqtt": "^0.3.10",
+    "lifx": "^0.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lifx",
+    "smartthings",
+    "mqtt"
+  ],
+  "author": "Krishanraj Varma",
+  "license": "ISC"
+}
