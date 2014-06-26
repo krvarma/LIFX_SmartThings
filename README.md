@@ -9,7 +9,7 @@ In this demo, I created a SmartThings Custom Device type LIFX with '**Switch**' 
 
 This is a pretty straight forward to control the bulb. Currently I only implemented on/off functionality but planning to incorporate more in near future.
 
-Here is a demo video of the application in action (sorry, no audio).
+Here is a demo video of the application in action (sorry, no audio). http://www.youtube.com/watch?v=5D6cQRWK3Yc
 
 Happy LIFX and SmartThings coding :)
 
